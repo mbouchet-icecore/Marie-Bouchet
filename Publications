@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Publications</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+  <a href="index.html">About me</a>
+  <a href="research.html">Research</a>
+  <a href="publications.html">Publications</a>
+  <a href="communication.html">Communication</a>
+  <a href="cv.html">CV</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+  <h1>Publications</h1>
+  <p>Reconstructing East Antarctic Temperature and Snowfall Variability from δ15N of N2, Bouchet, Landais, Klüssendorf, Brückner, Legrain, Capron, Parrenin, Menviel, Grisart, Prié, Extier, Jacob, Fischer, Traeger, Tinner, Schmitt, Grimmer (in rev. in Nature Communications) https://doi.org/10.21203/rs.3.rs-8345157/v1</p>
+  <p>Evolution of the Antarctic climate-atmospheric CO2 phasing over the past five glacial Terminations, Legrain, Capron, Bouchet, Landais, Parrenin, Caillon, Grisart and Prié  (in rev. in Nature Communications) <p>
+  <p>Bipolar volcanic ice-core synchronization of the entire last glacial period, Svensson, Lin, Sinnl, Dahl-Jensen, Peder Steffensen , Olander Rasmussen, Vinther, Hvidberg, Astrid Kjær, Gkinis, Cook, Lohmann, Vettoretti, Ortved Melcher, Halkjær, Kipfstuhl, Wilhelms, Adolphi , Fischer, Bigler, Sigl, Landais, Bouchet, Klüssendorf, Parrenin, Mulvaney, Wolff, Burke, Innes, Severi, Buizert, McConnell, Chellman, Wensman, Beer, Oyabu, Muscheler (2026) https://doi.org/10.1016/j.quascirev.2025.109755 <p> 
+  <p>Building a coherent chronological framework for marine and glacial archives over the last 640,000 years, Auriol, Bouchet, Capron, Michel, Parrenin, and Landais 10.5802/crgeos.318 , 2025 <p>
+  <p>Air oxygen fractionation associated with respiration and photosynthesis processes in plants: impact on the study of the global Dole effect, Paul, Piel, Sauze, Yang, Bouchet, Jossoud, Dapoigny, Romanini, Prié, Devidal, Jacob, Milcu and Landais https://doi.org/10.1016/j.quascirev.2025.109663 , 2025 <p>
+  <p>Coherent dating of deep polar ice cores and implications for understanding climate mechanisms, Bouchet, https://theses.hal.science/tel-04767332v1/document, 2024.<p> 
+  <p>Centennial-scale variations in the carbon cycle enhanced by high obliquity, Legrain, Capron, Menviel, Wohleber, Parrenin, Teste, Landais, Bouchet, Grilli, Nehrbass-Ahles, Silva, Fischer and Stocker, Nature Geosciences, https://doi.org/10.1038/s41561-024-01556-5, 2024 <p>
+  <p>The Paleochrono-1.1 probabilistic model to derive optimized and consistent chronologies for several paleoclimatic sites, Parrenin, Bouchet, Buizert, Capron, Corrick, Drysdale, Kawamura, Landais, Mulvaney, Oyabu, and Olander Rasmussen, GMD, https://doi.org/10.5194/gmd-17-8735-2024, 2024 <p>
+  <p>The atypical interglacial of MIS 11c and the long-term change in interglacial intensity over the past 800 kyr, Bouchet, Donner, Grimmer, Jasper, Krauss, Legrain, and Vera Polo, Past Global Changes Magazine 32(1), https://doi.org/10.22498/pages.32.1.55, 2024 <p>
+  <p>The Antarctic Ice Core Chronology 2023 (AICC2023) chronological framework and associated timescale for the European Project for Ice Coring in Antarctica (EPICA) Dome C ice core, Bouchet, Landais, Grisart, Parrenin, Prié, Jacob, Fourré, Capron, Raynaud, Lipenkov, Loutre, Extier, Svensson, Legrain, Martinerie, Leuenberger, Jiang, Ritterbusch, Lu, and Yang, Clim. Past, https://doi.org/10.5194/cp-19-2257-2023, 2023 <p>
+  <p>Dive into the timescales of deep polar ice cores, Bouchet, Landais and Parrenin, Past Global Changes Magazine 31(2), https://doi.org/10.22498/pages.31.2.104, 2023<p>
+  <p>Modeling light stimulated thin film actuators for biomimetic microrobot and micromanipulation applications, Hadden, Bouchet et al., Mechanism of Actuation in Nickel Hydroxide/Oxyhydroxide Photoactuators, Adv. Mater. Interfaces, https://doi.org/10.1002/admi.202101072, 2021 <p>
+</section>
+
+</body>
+</html>
