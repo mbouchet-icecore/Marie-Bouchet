@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  background: #ffffff;
+  color: #111;
+  line-height: 1.6;
+}
+
+header {
+  padding: 120px 10%;
+}
+
+.hero h1 {
+  font-size: 64px;
+  letter-spacing: -2px;
+  margin: 0;
+}
+
+.hero p {
+  font-size: 18px;
+  opacity: 0.7;
+}
+
+section {
+  padding: 80px 10%;
+  border-top: 1px solid #eee;
+}
+
+h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.project {
+  margin-bottom: 30px;
+}
+
+.project h3 {
+  margin: 0;
+  font-size: 20px;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+footer {
+  padding: 60px 10%;
+  font-size: 14px;
+  opacity: 0.6;
+  border-top: 1px solid #eee;
+}
